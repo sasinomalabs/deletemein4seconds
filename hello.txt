@@ -1,0 +1,4 @@
+1. Login page.
+2. What color do you get by mixing red and yellow?
+3. Response to question #3
+4. Show image from https://nomasec-labs.ngrok.app/imag2.svg
